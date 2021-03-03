@@ -3,5 +3,5 @@ A simple to do web application made using Node, Express and Mongoose. User can a
 
 How to run in your computer-
 
-1. Cd over to the main working directory and run npm install in the terminal. (installs the required packages mentioned in package.json)
+1. Cd over to the main working directory and run npm install in the terminal. (installs the required packages mentioned in package.json) This should install the folder node_modules.
 2. Head over to http://localhost:3000/ to see the website.
